@@ -1,0 +1,7 @@
+C:\Users\Pol1nka\RiderProjects\points\points\bin\Debug\points.exe
+C:\Users\Pol1nka\RiderProjects\points\points\bin\Debug\points.pdb
+C:\Users\Pol1nka\RiderProjects\points\points\obj\Debug\points.csproj.AssemblyReference.cache
+C:\Users\Pol1nka\RiderProjects\points\points\obj\Debug\points.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pol1nka\RiderProjects\points\points\obj\Debug\points.csproj.CoreCompileInputs.cache
+C:\Users\Pol1nka\RiderProjects\points\points\obj\Debug\points.exe
+C:\Users\Pol1nka\RiderProjects\points\points\obj\Debug\points.pdb
